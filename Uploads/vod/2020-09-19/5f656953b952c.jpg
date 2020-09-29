@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error>
-  <Code>AccessDenied</Code>
-  <Message>You do not have read permission on this object.</Message>
-  <RequestId>5F6569537D39C93538F95980</RequestId>
-  <HostId>mfs.ykimg.com</HostId>
-</Error>

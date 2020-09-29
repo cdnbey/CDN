@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error>
-  <Code>NoSuchKey</Code>
-  <Message>The specified key does not exist.</Message>
-  <RequestId>5F6749279AA3503831ECFAF5</RequestId>
-  <HostId>mfs.ykimg.com</HostId>
-  <Key>050D00004FB24F460000015BB4095BF9</Key>
-</Error>
